@@ -25,7 +25,7 @@ The 2026 theme is:
 
 The summer school is expected to bring together up to **50 participants** from a broad range of AI-related fields, including natural language processing, machine learning, computer science, linguistics, digital humanities, and applied AI.
 
-For the current public UCREL summer school page, see the [UCREL NLP Summer School site](https://ucrel.lancaster.ac.uk/uss2024/). The site currently notes that participants can join again in summer 2026. citeturn254558search4
+For the current public UCREL summer school page, see the [UCREL NLP Summer School site](https://ucrel.lancaster.ac.uk/uss2026/).
 
 ---
 
