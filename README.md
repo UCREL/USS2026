@@ -46,14 +46,14 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 |---|---|---|
 | 09:00 to 09:30 | **Registration and Coffee**<br>Arrivals, badges, Wi-Fi, Slack or Teams setup | |
 | 09:30 to 10:00 | **Opening and Welcome Remarks** | _[Dr Ignatius Ezeani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani)<br>[Prof Ruslan Mitkov](https://www.lancaster.ac.uk/scc/about-us/people/ruslan-mitkov)_ |
-| 10:00 to 11:00 | **Keynote**<br>*Simple and Efficient Multilingual Language Model Adaptation* | _[Prof Nikos Aletras](https://sheffield.ac.uk/cs/people/academic/nikos-aletras)_<br>_Professor of Natural Language Processing_<br>_Sheffield University_|
+| 10:00 to 11:00 | **Keynote**<br>*Simple and Efficient Multilingual Language Model Adaptation* | _[Prof Nikos Aletras](https://sheffield.ac.uk/cs/people/academic/nikos-aletras)_<br>_Professor of NLP_<br>_Sheffield University_|
 | 11:00 to 11:15 | **Coffee and Tea Break** |
 | 11:15 to 13:00 | **Session 1: Tutorial**<br>*NLP Pipeline for Text Classification and Sequence Labelling* |_[Dr Daisy Lal](https://www.lancaster.ac.uk/scc/about-us/people/daisy-lal)_|
 | 13:00 to 14:00 | **Lunch Break and Networking** |
 | 14:00 to 15:30 | **Session 2: Tutorial**<br>*Introduction to the USAS Semantic Tagging Framework with PyMUSAS* | _[Prof Paul Rayson](https://www.lancaster.ac.uk/scc/about-us/people/paul-rayson)<br>[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_ |
 | 15:30 to 15:45 | **Coffee and Tea Break** | 
-| 15:45 to 16:30 | **Session 3: To be Confirmed**<br>Speaker or session details to follow |
-| 16:30 to 17:00 | **Session 4: Hackathon Kick-off**<br>Challenge briefing, team formation, idea scoping |
+| 15:45 to 16:30 | **Session 3: To be Confirmed**<br>Speaker or session details to follow |_[Dr John Vidler](https://www.lancaster.ac.uk/scc/about-us/people/john-vidler)_|
+| 16:30 to 17:00 | **Session 4: Hackathon Kick-off**<br>Challenge briefing, team formation, idea scoping |_[Dr Tharindu Ranasinghe](https://www.lancaster.ac.uk/scc/about-us/people/tharindu-ranasinghe)_<br>_[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_|
 
 ---
 
@@ -65,11 +65,11 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 | 09:00 to 09:30 | **Coffee and Networking**<br>Recap Day 1, outline Day 2 | |
 | 09:30 to 10:30 | **Keynote**<br>*Inside LLMs: Architectures, Training and Scaling* | |
 | 10:30 to 11:00 | **Coffee and Tea Break** | |
-| 11:00 to 13:00 | **Session 5: Tutorial**<br>*LLM Prompting Techniques: RTCF, Few-shot, CoT, RAG and Constraints* | _Chenji Jin, David Wu_<br>_Dr Scott Piao_|
+| 11:00 to 13:00 | **Session 5: Tutorial**<br>*LLM Prompting Techniques: RTCF, Few-shot, CoT, RAG and Constraints* | _Chenji Jin, David Wu_<br>_[Dr Scott Piao](https://www.lancaster.ac.uk/sci-tech/about-us/people/scott-piao)_|
 | 13:00 to 14:00 | **Lunch Break and Networking** |
-| 14:00 to 15:30 | **Session 6: Tutorial**<br>*Building a Basic RAG System: indexing a corpus, retrieval, prompting, and evaluating responses* | |
+| 14:00 to 15:30 | **Session 6: Tutorial**<br>*Building a Basic RAG System: indexing a corpus, retrieval, prompting, and evaluating responses* | _[Dr Hansi Hettiarachchi](https://www.lancaster.ac.uk/sci-tech/about-us/people/hansi-hettiarachchi)_ |
 | 15:30 to 16:00 | **Coffee and Tea Break** | |
-| 16:00 to 17:00 | **Session 7: Hackathon Sprint**<br>Code and spec review, short clinic, discussions and support | |
+| 16:00 to 17:00 | **Session 7: Hackathon Sprint**<br>Code and spec review, short clinic, discussions and support |_[Dr Tharindu Ranasinghe](https://www.lancaster.ac.uk/scc/about-us/people/tharindu-ranasinghe)_<br>_[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_|
 
 ---
 
