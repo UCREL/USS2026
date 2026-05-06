@@ -82,7 +82,7 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 | Time | Session | Presenter |
 |---|---|---|
 | 09:00 to 09:30 | **Coffee and Networking**<br>Recap, hackathon reminders |
-| 09:30 to 10:30 | **Keynote**<br>*Responsible, Explainable and Inclusive AI for Language Technologies* | _[Dr Jacki O'Neill](https://www.microsoft.com/en-us/research/people/jaoneil/?msockid=2b202e1c0a2e65503c19394c0b9b64a0)_<br>_Director, Microsof Research Africa_<br>Nairobi, Kenya|
+| 09:30 to 10:30 | **Keynote**<br>*Responsible, Explainable and Inclusive AI for Language Technologies* | _[Dr Jacki O'Neill](https://www.microsoft.com/en-us/research/people/jaoneil/?msockid=2b202e1c0a2e65503c19394c0b9b64a0)_<br>_Director, Microsoft Research_<br>Nairobi, Kenya|
 | 10:30 to 11:00 | **Coffee and Tea Break** |
 | 11:00 to 13:00 | **Session 8: Tutorial**<br>*Machine Translation Quality Estimation in Low-Resource Scenarios* | _[Dr Tharindu Ranasinghe](https://www.lancaster.ac.uk/scc/about-us/people/tharindu-ranasinghe)_<br>_[Damith Dola Mullage](https://www.lancaster.ac.uk/scc/about-us/people/damith-dola-mullage)_|
 | 13:00 to 14:00 | **Lunch Break and Networking** |
@@ -139,9 +139,7 @@ Suggested structure:
 ---
 
 ## Maintainers
-
-**UCREL Summer School 2026 Organising Team**  
-Lancaster University
+Dr Ignatius Ezeani and the **UCREL Summer School 2026 Organising Team**, Lancaster University, UK
 
 ---
 
