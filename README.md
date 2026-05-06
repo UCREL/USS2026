@@ -53,7 +53,7 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 | 14:00 to 15:30 | **Session 2: Tutorial**<br>*Introduction to the USAS Semantic Tagging Framework with PyMUSAS* | _[Prof Paul Rayson](https://www.lancaster.ac.uk/scc/about-us/people/paul-rayson)<br>[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_ |
 | 15:30 to 15:45 | **Coffee and Tea Break** | 
 | 15:45 to 16:30 | **Session 3: To be Confirmed**<br>Speaker or session details to follow |_[Dr John Vidler](https://www.lancaster.ac.uk/scc/about-us/people/john-vidler)_|
-| 16:30 to 17:00 | **Session 4: Hackathon Kick-off**<br>Challenge briefing, team formation, idea scoping |_[Dr Tharindu Ranasinghe](https://www.lancaster.ac.uk/scc/about-us/people/tharindu-ranasinghe)_<br>_[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_|
+| 16:30 to 17:00 | **Session 4: Hackathon Kick-off**<br>Challenge briefing, team formation, idea scoping |_[Dr Tharindu Ranasinghe](https://www.lancaster.ac.uk/scc/about-us/people/tharindu-ranasinghe)_<br>_[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_<br>_[Dr John Vidler](https://www.lancaster.ac.uk/scc/about-us/people/john-vidler)_|
 
 ---
 
@@ -69,7 +69,7 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 | 13:00 to 14:00 | **Lunch Break and Networking** |
 | 14:00 to 15:30 | **Session 6: Tutorial**<br>*Building a Basic RAG System: indexing a corpus, retrieval, prompting, and evaluating responses* | _[Dr Hansi Hettiarachchi](https://www.lancaster.ac.uk/sci-tech/about-us/people/hansi-hettiarachchi)_ |
 | 15:30 to 16:00 | **Coffee and Tea Break** | |
-| 16:00 to 17:00 | **Session 7: Hackathon Sprint**<br>Code and spec review, short clinic, discussions and support |_[Dr Tharindu Ranasinghe](https://www.lancaster.ac.uk/scc/about-us/people/tharindu-ranasinghe)_<br>_[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_|
+| 16:00 to 17:00 | **Session 7: Hackathon Sprint**<br>Code and spec review, short clinic, discussions and support |_[Dr Tharindu Ranasinghe](https://www.lancaster.ac.uk/scc/about-us/people/tharindu-ranasinghe)_<br>_[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_<br>_[Dr John Vidler](https://www.lancaster.ac.uk/scc/about-us/people/john-vidler)_|
 
 ---
 
@@ -79,13 +79,13 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 | Time | Session | Presenter |
 |---|---|---|
 | 09:00 to 09:30 | **Coffee and Networking**<br>Recap, hackathon reminders |
-| 09:30 to 10:30 | **Keynote**<br>*Responsible, Explainable and Inclusive AI for Language Technologies* |
+| 09:30 to 10:30 | **Keynote**<br>*Responsible, Explainable and Inclusive AI for Language Technologies* | _[Dr Jacki O'Neill](https://www.microsoft.com/en-us/research/people/jaoneil/?msockid=2b202e1c0a2e65503c19394c0b9b64a0)_<br>_Director, Microsof Research Africa_<br>Nairobi, Kenya|
 | 10:30 to 11:00 | **Coffee and Tea Break** |
-| 11:00 to 13:00 | **Session 8: Tutorial**<br>*Machine Translation Quality Estimation in Low-Resource Scenarios* |
+| 11:00 to 13:00 | **Session 8: Tutorial**<br>*Machine Translation Quality Estimation in Low-Resource Scenarios* | _[Dr Tharindu Ranasinghe](https://www.lancaster.ac.uk/scc/about-us/people/tharindu-ranasinghe)_<br>_[Damith Dola Mullage](https://www.lancaster.ac.uk/scc/about-us/people/damith-dola-mullage)_|
 | 13:00 to 14:00 | **Lunch Break and Networking** |
 | 14:00 to 15:00 | **Session 9: Talk**<br>*Environmental, Ethical and Social Impacts of NLP and Large Language Models* |
-| 15:00 to 15:30 | **Hackathon Results**<br>Team pitches, winners and prize presentation |
-| 15:30 to 16:00 | **Closing**<br>Reflections, announcements, certificates and group photo |
+| 15:00 to 15:30 | **Hackathon Results**<br>Team pitches, winners and prize presentation |_[Dr Tharindu Ranasinghe](https://www.lancaster.ac.uk/scc/about-us/people/tharindu-ranasinghe)_<br>_[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_<br>_[Dr John Vidler](https://www.lancaster.ac.uk/scc/about-us/people/john-vidler)_|
+| 15:30 to 16:00 | **Closing**<br>Reflections, announcements, certificates and group photo | _[Prof Paul Rayson](https://www.lancaster.ac.uk/scc/about-us/people/paul-rayson)<br>[Dr Ignatius Ezeani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani)_|
 
 ---
 
