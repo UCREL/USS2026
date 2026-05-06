@@ -9,7 +9,10 @@
 ![Draft](https://img.shields.io/badge/status-draft-f59e0b?style=for-the-badge)
 ![Dates](https://img.shields.io/badge/dates-20_to_22_July_2026-1d4ed8?style=for-the-badge)
 ![Location](https://img.shields.io/badge/location-Lancaster_University-0f766e?style=for-the-badge)
-![Theme](https://img.shields.io/badge/theme-NLP_%7C_LLMs_%7C_Responsible_AI-7c3aed?style=for-the-badge)
+![Theme](https://img.shields.io/badge/theme-NLP, LLMs and Responsible and Explainable AI in Practice-7c3aed?style=for-the-badge)
+
+<!-- ![Theme](https://img.shields.io/badge/theme-NLP_%7C_LLMs_%7C_Responsible_AI-7c3aed?style=for-the-badge) -->
+<!-- NLP, LLMs and Responsible and Explainable AI in Practice -->
 
 </div>
 
