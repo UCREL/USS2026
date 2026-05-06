@@ -62,12 +62,12 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 
 | Time | Session |
 |---|---|
-| 09:00 to 09:30 | **Coffee and Networking**<br>Recap Day 1, outline Day 2 |
+| 09:00 to 09:30 | **Coffee and Networking**<br>Recap Day 1, outline Day 2 | |
 | 09:30 to 10:30 | **Keynote**<br>*Inside LLMs: Architectures, Training and Scaling* |
 | 10:30 to 11:00 | **Coffee and Tea Break** |
 | 11:00 to 13:00 | **Session 5: Tutorial**<br>*LLM Prompting Techniques: RTCF, Few-shot, CoT, RAG and Constraints* |
 | 13:00 to 14:00 | **Lunch Break and Networking** |
-| 14:00 to 15:30 | **Session 6: Tutorial**<br>*Building a Basic RAG System: indexing a corpus, retrieval, prompting, and logging or evaluating responses* |
+| 14:00 to 15:30 | **Session 6: Tutorial**<br>*Building a Basic RAG System: indexing a corpus, retrieval, prompting, and evaluating responses* |
 | 15:30 to 16:00 | **Coffee and Tea Break** |
 | 16:00 to 17:00 | **Session 7: Hackathon Sprint**<br>Code and spec review, short clinic, discussions and support |
 
