@@ -109,7 +109,7 @@ The programme is designed for:
 
 ---
 
-## Repository contents
+<!-- ## Repository contents
 
 Suggested structure:
 
@@ -125,7 +125,7 @@ Suggested structure:
     └── programme-card.png
 ```
 
----
+--- -->
 
 ## Notes
 
