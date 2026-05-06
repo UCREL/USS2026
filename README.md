@@ -46,7 +46,7 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 |---|---|---|
 | 09:00 to 09:30 | **Registration and Coffee**<br>Arrivals, badges, Wi-Fi, Slack or Teams setup | |
 | 09:30 to 10:00 | **Opening and Welcome Remarks** | _[Dr Ignatius Ezeani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani)<br>[Prof Ruslan Mitkov](https://www.lancaster.ac.uk/scc/about-us/people/ruslan-mitkov)_ |
-| 10:00 to 11:00 | **Keynote**<br>*Simple and Efficient Multilingual Language Model Adaptation* |
+| 10:00 to 11:00 | **Keynote**<br>*Simple and Efficient Multilingual Language Model Adaptation* | _[Prof Nikos Aletras](https://sheffield.ac.uk/cs/people/academic/nikos-aletras)_<br>_Professor of Natural Language Processing_<br>_Sheffield University_
 | 11:00 to 11:15 | **Coffee and Tea Break** |
 | 11:15 to 13:00 | **Session 1: Tutorial**<br>*NLP Pipeline for Text Classification and Sequence Labelling* |
 | 13:00 to 14:00 | **Lunch Break and Networking** |
