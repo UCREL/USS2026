@@ -42,8 +42,8 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 ## Day 1 · Monday 20 July 2026
 ### NLP Foundations and Core Language Technologies
 
-| Time | Session |
-|---|---|
+| Time | Session | Presented by|
+|---|---|---|
 | 09:00 to 09:30 | **Registration and Coffee**<br>Arrivals, badges, Wi-Fi, Slack or Teams setup |
 | 09:30 to 10:00 | **Opening and Welcome Remarks** |
 | 10:00 to 11:00 | **Keynote**<br>*Simple and Efficient Multilingual Language Model Adaptation* |
@@ -76,8 +76,8 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 ## Day 3 · Wednesday 22 July 2026
 ### Responsible, Explainable and Inclusive AI
 
-| Time | Session |
-|---|---|
+| Time | Session | Presented by|
+|---|---|---|
 | 09:00 to 09:30 | **Coffee and Networking**<br>Recap, hackathon reminders |
 | 09:30 to 10:30 | **Keynote**<br>*Responsible, Explainable and Inclusive AI for Language Technologies* |
 | 10:30 to 11:00 | **Coffee and Tea Break** |
