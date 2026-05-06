@@ -60,8 +60,8 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 ## Day 2 · Tuesday 21 July 2026
 ### Large Language Models in Practice
 
-| Time | Session |
-|---|---|
+| Time | Session | Presented by|
+|---|---|---|
 | 09:00 to 09:30 | **Coffee and Networking**<br>Recap Day 1, outline Day 2 | |
 | 09:30 to 10:30 | **Keynote**<br>*Inside LLMs: Architectures, Training and Scaling* | |
 | 10:30 to 11:00 | **Coffee and Tea Break** | |
