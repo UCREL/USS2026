@@ -63,7 +63,7 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 | Time | Session | Presenter |
 |---|---|---|
 | 09:00 to 09:30 | **Coffee and Networking**<br>Recap Day 1, outline Day 2 | |
-| 09:30 to 10:30 | **Keynote**<br>*Inside LLMs: Architectures, Training and Scaling* | |
+| 09:30 to 10:30 | **Keynote**<br>*Inside LLMs: Architectures, Training and Scaling* | To be confirmed|
 | 10:30 to 11:00 | **Coffee and Tea Break** | |
 | 11:00 to 13:00 | **Session 5: Tutorial**<br>*LLM Prompting Techniques: RTCF, Few-shot, CoT, RAG and Constraints* | _Chenji Jin, David Wu_<br>_[Dr Scott Piao](https://www.lancaster.ac.uk/sci-tech/about-us/people/scott-piao)_|
 | 13:00 to 14:00 | **Lunch Break and Networking** |
