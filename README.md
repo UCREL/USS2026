@@ -44,7 +44,7 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 
 | Time | Session | Presenter |
 |---|---|---|
-| 09:00 to 09:30 | **Registration and Coffee**<br>Arrivals, badges, Wi-Fi, Slack or Teams setup |
+| 09:00 to 09:30 | **Registration and Coffee**<br>Arrivals, badges, Wi-Fi, Slack or Teams setup | --- |
 | 09:30 to 10:00 | **Opening and Welcome Remarks** |
 | 10:00 to 11:00 | **Keynote**<br>*Simple and Efficient Multilingual Language Model Adaptation* |
 | 11:00 to 11:15 | **Coffee and Tea Break** |
