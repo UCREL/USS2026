@@ -84,7 +84,7 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 | 10:30 to 11:00 | **Coffee and Tea Break** |
 | 11:00 to 13:00 | **Session 8: Tutorial**<br>*Machine Translation Quality Estimation in Low-Resource Scenarios* | _[Dr Tharindu Ranasinghe](https://www.lancaster.ac.uk/scc/about-us/people/tharindu-ranasinghe)_<br>_[Damith Dola Mullage](https://www.lancaster.ac.uk/scc/about-us/people/damith-dola-mullage)_|
 | 13:00 to 14:00 | **Lunch Break and Networking** |
-| 14:00 to 15:00 | **Session 9: Talk**<br>*Environmental, Ethical and Social Impacts of NLP and Large Language Models* |
+| 14:00 to 15:00 | **Session 9: Workshop**<br>*Title: Mapping environmental impacts and potential rebound effects of AI* <br>*In this session, we will work in groups to map out the socio-environmental impacts <br>of the digital infrastructure that enables the use of AI and <br>we will use the ‘Rebound Archetypes Cards’ to facilitate<br> the discussion around the potential rebound <br>effects of using AI in products and services.*| _[Dr Marcia Smith](https://www.lancaster.ac.uk/scc/about-us/people/marcia-tavares-smith)_
 | 15:00 to 15:30 | **Hackathon Results**<br>Team pitches, winners and prize presentation |_[Dr Tharindu Ranasinghe](https://www.lancaster.ac.uk/scc/about-us/people/tharindu-ranasinghe)_<br>_[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_<br>_[Dr John Vidler](https://www.lancaster.ac.uk/scc/about-us/people/john-vidler)_|
 | 15:30 to 16:00 | **Closing**<br>Reflections, announcements, certificates and group photo | _[Prof Paul Rayson](https://www.lancaster.ac.uk/scc/about-us/people/paul-rayson)<br>[Dr Ignatius Ezeani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani)_|
 
