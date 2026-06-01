@@ -22,9 +22,7 @@
 
 This repository contains the draft programme and related materials for the **UCREL Summer School 2026**, hosted at **Lancaster University** from **20 to 22 July 2026**.
 
-The 2026 theme is:
-
-> **NLP, LLMs and Responsible and Explainable AI in Practice**
+The 2026 theme is: **NLP, LLMs and Responsible and Explainable AI in Practice**
 
 The summer school is expected to bring together up to **50 participants** from a broad range of AI-related fields, including natural language processing, machine learning, computer science, linguistics, digital humanities, and applied AI.
 
