@@ -47,7 +47,9 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 |---|---|---|
 | 09:00 to 09:30 | **Registration and Coffee**<br>Arrivals, badges, Wi-Fi, Slack or Teams setup | |
 | 09:30 to 10:00 | **Opening and Welcome Remarks** | _[Dr Ignatius Ezeani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani)<br>[Prof Ruslan Mitkov](https://www.lancaster.ac.uk/scc/about-us/people/ruslan-mitkov)_ |
-| 10:00 to 11:00 | **Keynote**<br>*Simple and Efficient Multilingual Language Model Adaptation* | _[Prof Nikos Aletras](https://sheffield.ac.uk/cs/people/academic/nikos-aletras)_<br>_Professor of NLP_<br>_Sheffield University_|
+| 10:00 to 11:00 | **Keynote**<br>*Frustratingly Simple and Efficient Multilingual Language Model Adaptation* <br> Most Large Language Models are heavily English-centric, resulting in higher inference costs and poorer performance for non-English speakers. _How do we adapt these models to new languages efficiently without breaking what already works_?
+<br>
+In this talk, I will present two simple yet powerful approaches to bridge the multilingual gap. First, I will present ElChat (Eliciting Chat Abilities), a method that adapts instruction-tuned LLMs to a target language using only unlabeled data. The method completely bypasses the need for costly translated chat datasets while boosting inference speed and safety. Second, I will talk about SSU (Source Shielded Updates), a technique to fight catastrophic forgetting. By identifying and freezing crucial source-language parameters before fine-tuning, SSU preserves the model's original capabilities while it learns a new language.| _[Prof Nikos Aletras](https://sheffield.ac.uk/cs/people/academic/nikos-aletras)_<br>_Professor of NLP_<br>_Sheffield University_|
 | 11:00 to 11:15 | **Coffee and Tea Break** |
 | 11:15 to 13:00 | **Session 1: Tutorial**<br>*NLP Pipeline for Text Classification and Sequence Labelling* |_[Dr Daisy Lal](https://www.lancaster.ac.uk/scc/about-us/people/daisy-lal)_|
 | 13:00 to 14:00 | **Lunch Break and Networking** |
@@ -64,9 +66,9 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 | Time | Session | Presenter |
 |---|---|---|
 | 09:00 to 09:30 | **Coffee and Networking**<br>Recap Day 1, outline Day 2 | |
-| 09:30 to 10:30 | **Keynote**<br>*Inside LLMs: Architectures, Training and Scaling* | To be confirmed|
+| 09:30 to 10:30 | **Keynote**<br>*Inside LLMs: Architectures, Training and Scaling* | [Dr Riza Batista-Navarro](https://research.manchester.ac.uk/en/persons/riza.batista/)<br>Senior Lecturer in Text Mining, Natural Language Processing and Text Mining|
 | 10:30 to 11:00 | **Coffee and Tea Break** | |
-| 11:00 to 13:00 | **Session 5: Tutorial**<br>*LLM Prompting Techniques: RTCF, Few-shot, CoT, RAG and Constraints* | _Chenji Jin, David Wu_<br>_[Dr Scott Piao](https://www.lancaster.ac.uk/sci-tech/about-us/people/scott-piao)_|
+| 11:00 to 13:00 | **Session 5: Tutorial**<br>*LLM Prompting Techniques: RTCF, Few-shot, CoT, RAG and Constraints* | _Chenji Jin, Pourya Farzi_<br>_[Dr Scott Piao](https://www.lancaster.ac.uk/sci-tech/about-us/people/scott-piao)_|
 | 13:00 to 14:00 | **Lunch Break and Networking** |
 | 14:00 to 15:30 | **Session 6: Tutorial**<br>*Building a Basic RAG System: indexing a corpus, retrieval, prompting, and evaluating responses* | _[Dr Hansi Hettiarachchi](https://www.lancaster.ac.uk/sci-tech/about-us/people/hansi-hettiarachchi)_ |
 | 15:30 to 16:00 | **Coffee and Tea Break** | |
