@@ -1,10 +1,6 @@
-<!--
-  Replace profile.jpg below with the path to your profile picture.
-  The `align="right"` attribute floats the image so the text wraps to its left.
--->
-<img align="right" width="220" src="RBatista.jpg" alt="Dr Riza Batista-Navarro" />
-
 # Dr Riza Batista-Navarro
+
+<img align="right" width="220" src="RBatista.jpg" alt="Dr Riza Batista-Navarro" />
 
 **Senior Lecturer in Text Mining**
 Department of Computer Science, University of Manchester
