@@ -1,6 +1,6 @@
-# Dr Riza Batista-Navarro
-
 <img align="right" width="220" src="RBatista.jpg" alt="Dr Riza Batista-Navarro" />
+
+# Dr Riza Batista-Navarro
 
 **Senior Lecturer in Text Mining**
 Department of Computer Science, University of Manchester
