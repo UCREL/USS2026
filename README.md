@@ -11,9 +11,6 @@
 ![Location](https://img.shields.io/badge/location-Lancaster_University-0f766e?style=for-the-badge)
 ![Theme](https://img.shields.io/badge/theme-NLP_%7C_LLMs_%7C_Responsible_and_Explainable_AI_in_Practice-7c3aed?style=for-the-badge)
 
-<!-- ![Theme](https://img.shields.io/badge/theme-NLP_%7C_LLMs_%7C_Responsible_AI-7c3aed?style=for-the-badge) -->
-<!-- NLP, LLMs and Responsible and Explainable AI in Practice -->
-
 </div>
 
 ---
@@ -47,7 +44,7 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 |---|---|---|
 | 09:00 to 09:30 | **Registration and Coffee**<br>Arrivals, badges, Wi-Fi, Slack or Teams setup | |
 | 09:30 to 10:00 | **Opening and Welcome Remarks** | _[Dr Ignatius Ezeani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani)<br>[Prof Ruslan Mitkov](https://www.lancaster.ac.uk/scc/about-us/people/ruslan-mitkov)_ |
-| 10:00 to 11:00 | **Keynote**<br>*Frustratingly Simple and Efficient Multilingual Language Model Adaptation* <br> [Details](/assets/markdowns/NAletras.md) | _[Prof Nikos Aletras](https://sheffield.ac.uk/cs/people/academic/nikos-aletras)_<br>_Professor of NLP_<br>_Sheffield University_|
+| 10:00 to 11:00 | **Keynote**<br>*Frustratingly Simple and Efficient Multilingual Language Model Adaptation* <br> [More...](/assets/markdowns/NAletras.md) | _[Prof Nikos Aletras](https://sheffield.ac.uk/cs/people/academic/nikos-aletras)_<br>_Professor of NLP_<br>_Sheffield University_|
 | 11:00 to 11:15 | **Coffee and Tea Break** |
 | 11:15 to 13:00 | **Session 1: Tutorial**<br>*NLP Pipeline for Text Classification and Sequence Labelling* |_[Dr Daisy Lal](https://www.lancaster.ac.uk/scc/about-us/people/daisy-lal)_|
 | 13:00 to 14:00 | **Lunch Break and Networking** |
@@ -64,7 +61,7 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 | Time | Session | Presenter |
 |---|---|---|
 | 09:00 to 09:30 | **Coffee and Networking**<br>Recap Day 1, outline Day 2 | |
-| 09:30 to 10:30 | **Keynote**<br>*How to train your model: Paradigms for training LLMs and how to know which one to use.* <br> [Details](/assets/markdowns/RBatista.md) | [Dr Riza Batista-Navarro](https://research.manchester.ac.uk/en/persons/riza.batista/)<br>Senior Lecturer in Text Mining, Natural Language Processing and Text Mining|
+| 09:30 to 10:30 | **Keynote**<br>*How to train your model: Paradigms for training LLMs and how to know which one to use.* <br> [More...](/assets/markdowns/RBatista.md) | [Dr Riza Batista-Navarro](https://research.manchester.ac.uk/en/persons/riza.batista/)<br>Senior Lecturer in Text Mining, Natural Language Processing and Text Mining|
 | 10:30 to 11:00 | **Coffee and Tea Break** | |
 | 11:00 to 13:00 | **Session 5: Tutorial**<br>*LLM Prompting Techniques: RTCF, Few-shot, CoT, RAG and Constraints* | _Chenji Jin, Pourya Farzi_<br>_[Dr Scott Piao](https://www.lancaster.ac.uk/sci-tech/about-us/people/scott-piao)_|
 | 13:00 to 14:00 | **Lunch Break and Networking** |
@@ -80,7 +77,7 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 | Time | Session | Presenter |
 |---|---|---|
 | 09:00 to 09:30 | **Coffee and Networking**<br>Recap, hackathon reminders |
-| 09:30 to 10:30 | **Keynote**<br>*Responsible, Explainable and Inclusive AI for Language Technologies* | _[Dr Jacki O'Neill](https://www.microsoft.com/en-us/research/people/jaoneil/?msockid=2b202e1c0a2e65503c19394c0b9b64a0)_<br>_Director, Microsoft Research_<br>Nairobi, Kenya|
+| 09:30 to 10:30 | **Keynote**<br>*AI for Everyday Lives* <br> [More...](/assets/markdowns/JOneill.md) | _[Dr Jacki O'Neill](https://www.microsoft.com/en-us/research/people/jaoneil/?msockid=2b202e1c0a2e65503c19394c0b9b64a0)_<br>_Founding Director, Microsoft Research_<br>Nairobi, Kenya|
 | 10:30 to 11:00 | **Coffee and Tea Break** |
 | 11:00 to 13:00 | **Session 8: Tutorial**<br>*Machine Translation Quality Estimation in Low-Resource Scenarios* | _[Dr Tharindu Ranasinghe](https://www.lancaster.ac.uk/scc/about-us/people/tharindu-ranasinghe)_<br>_[Damith Dola Mullage](https://www.lancaster.ac.uk/scc/about-us/people/damith-dola-mullage)_|
 | 13:00 to 14:00 | **Lunch Break and Networking** |
