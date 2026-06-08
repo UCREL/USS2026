@@ -63,7 +63,7 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 | 09:00 to 09:30 | **Coffee and Networking**<br>Recap Day 1, outline Day 2 | |
 | 09:30 to 10:30 | **Keynote**<br>*How to train your model: Paradigms for training LLMs and how to know which one to use.* <br> [More...](/assets/markdowns/RBatista.md) | [Dr Riza Batista-Navarro](https://research.manchester.ac.uk/en/persons/riza.batista/)<br>Senior Lecturer in Text Mining, Natural Language Processing and Text Mining|
 | 10:30 to 11:00 | **Coffee and Tea Break** | |
-| 11:00 to 13:00 | **Session 5: Tutorial**<br>*LLM Prompting Techniques: RTCF, Few-shot, CoT, RAG and Constraints* | _Chenji Jin, Pourya Farzi_<br>_[Dr Scott Piao](https://www.lancaster.ac.uk/sci-tech/about-us/people/scott-piao)_|
+| 11:00 to 13:00 | **Session 5: Tutorial**<br>*LLM Prompting Techniques: RTCF, Few-shot, CoT, RAG and Constraints* <br> [More...](/assets/markdowns/llm-prompting-techniques-tutorial.md)| _Chenji Jin, Pourya Farzi_<br>_[Dr Scott Piao](https://www.lancaster.ac.uk/sci-tech/about-us/people/scott-piao)_|
 | 13:00 to 14:00 | **Lunch Break and Networking** |
 | 14:00 to 15:30 | **Session 6: Tutorial**<br>*Building a Basic RAG System: indexing a corpus, retrieval, prompting, and evaluating responses* | _[Dr Hansi Hettiarachchi](https://www.lancaster.ac.uk/sci-tech/about-us/people/hansi-hettiarachchi)_ |
 | 15:30 to 16:00 | **Coffee and Tea Break** | |
