@@ -32,7 +32,7 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 > Add your banner or programme graphic to the repository and update the path below if needed.
 
 <p align="center">
-  <img src="assets/images/updated_USS2026_programme.png" alt="UCREL Summer School 2026 draft programme" width="900">
+  <img src="assets/images/USS2026_programme.png" alt="UCREL Summer School 2026 draft programme" width="900">
 </p>
 
 ---
