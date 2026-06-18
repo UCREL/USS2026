@@ -41,7 +41,7 @@ In this tutorial, you will discuss a range of LLM prompting techniques and gain 
 
 The tutorial has **two main parts**.
 
-### Part 1 — Techniques (≈ 40–45 minutes)
+### Part 1: Techniques (≈ 40–45 minutes)
 
 A presentation of the main LLM prompting techniques in wide use today, giving insight into how different prompt types are structured and the rationale behind those structures and coding designs. The techniques covered are:
 
