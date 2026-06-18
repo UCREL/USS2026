@@ -9,46 +9,31 @@
 
 - [Introduction](#introduction)
 - [Structure of the Tutorial](#structure-of-the-tutorial)
-  - [Part 1 — Techniques](#part-1--techniques--4045-minutes)
-  - [Part 2 — Hands-on Practice](#part-2--hands-on-practice)
+  - [Part 1: Techniques](#part-1--techniques--4045-minutes)
+  - [Part 2: Hands-on Practice](#part-2--hands-on-practice)
 - [Software, Sample Data, and Computing Environment](#software-sample-data-and-computing-environment)
   - [Prerequisites](#prerequisites)
 - [Data Privacy and Security](#data-privacy-and-security)
 - [Takeaways](#takeaways)
 - [Guideline: How to Get an OpenRouter API Key](#guideline-how-to-get-an-openrouter-api-key)
-  - [Step 1 — Create an Account](#step-1--create-an-openrouter-account)
-  - [Step 2 — Open the API Keys Page](#step-2--open-the-api-keys-page)
-  - [Step 3 — Configure the API Key](#step-3--configure-the-api-key)
-  - [Step 4 — Copy the API Key](#step-4--copy-the-api-key)
-  - [Step 5 — Use the API Key in Python](#step-5--use-the-api-key-in-python)
-  - [Step 6 — Using Free Models](#step-6--using-free-models)
+  - [Step 1: Create an Account](#step-1--create-an-openrouter-account)
+  - [Step 2: Open the API Keys Page](#step-2--open-the-api-keys-page)
+  - [Step 3: Configure the API Key](#step-3--configure-the-api-key)
+  - [Step 4: Copy the API Key](#step-4--copy-the-api-key)
+  - [Step 5: Use the API Key in Python](#step-5--use-the-api-key-in-python)
+  - [Step 6: Using Free Models](#step-6--using-free-models)
 
 ---
 
 ## Introduction
 
-With the emergence of ChatGPT in November 2022, generative AI has advanced at an
-unprecedented pace, and a series of Large Language Models (LLMs) have been developed
-and increasingly deployed across a growing range of real-world applications. The
-knowledge embedded within today's LLMs opens up extensive possibilities for solving
-a wide variety of problems.
+With the emergence of ChatGPT in November 2022, generative AI has advanced at an unprecedented pace, and a series of Large Language Models (LLMs) have been developed and increasingly deployed across a growing range of real-world applications. The knowledge embedded within today's LLMs opens up extensive possibilities for solving a wide variety of problems.
 
-While there are many ways to access LLMs and retrieve the knowledge stored within
-them, **prompting** remains the principal means for most users to access and use LLMs
-quickly and conveniently. These approaches range from simple question answering to
-more advanced techniques such as Chain-of-Thought (CoT) prompting and
-Retrieval-Augmented Generation (RAG).
+While there are many ways to access LLMs and retrieve the knowledge stored within them, **prompting** remains the principal means for most users to access and use LLMs quickly and conveniently. These approaches range from simple question answering to more advanced techniques such as Chain-of-Thought (CoT) prompting and Retrieval-Augmented Generation (RAG).
 
-When addressing highly complex tasks, advanced prompting techniques become necessary
-to obtain accurate, high-quality outputs while mitigating issues such as hallucination
-and bias. Understanding and mastering a range of prompting techniques is therefore
-critical to applying LLMs effectively.
+When addressing highly complex tasks, advanced prompting techniques become necessary to obtain accurate, high-quality outputs while mitigating issues such as hallucination and bias. Understanding and mastering a range of prompting techniques is, therefore, critical to applying LLMs effectively.
 
-In this tutorial you will discuss a range of LLM prompting techniques and gain
-first-hand experience by applying selected techniques to specific tasks. A freely
-available LLM is used for testing, with sample data provided by the team or your own
-data. Practical guidance is also given on connecting to an LLM API and querying models
-with your own prompts in Python.
+In this tutorial, you will discuss a range of LLM prompting techniques and gain first-hand experience by applying selected techniques to specific tasks. A freely available LLM is used for testing, with sample data provided by the team or your own data. Practical guidance is also given on connecting to an LLM API and querying models with your own prompts in Python.
 
 ---
 
@@ -58,32 +43,26 @@ The tutorial has **two main parts**.
 
 ### Part 1 — Techniques (≈ 40–45 minutes)
 
-A presentation of the main LLM prompting techniques in wide use today, giving insight
-into how different prompt types are structured and the rationale behind those structures
-and coding designs. The techniques covered are:
+A presentation of the main LLM prompting techniques in wide use today, giving insight into how different prompt types are structured and the rationale behind those structures and coding designs. The techniques covered are:
 
 - **RTCF Framework**
-  - **R**ole — Who is the LLM expected to act as?
-  - **T**ask — What specific objective should the LLM accomplish?
-  - **C**ontext — What information helps the LLM interpret the task and produce an appropriate response?
-  - **F**ormat — How should the LLM respond?
+  - **R**ole: Who is the LLM expected to act as?
+  - **T**ask: What specific objective should the LLM accomplish?
+  - **C**ontext: What information helps the LLM interpret the task and produce an appropriate response?
+  - **F**ormat: How should the LLM respond?
 - **Few-shot Prompting** — Beyond specifying the task, provide illustrative examples to guide the response.
-- **Constraints** — Constrain and standardise the content and format of outputs so downstream tasks can use them more easily.
-- **Chain-of-Thought (CoT) Prompting** — For harder tasks, guide the LLM to reason step by step.
-- **RAG (Retrieval-Augmented Generation)** — Provide external knowledge to ground responses, improving accuracy and reducing hallucinations.
+- **Constraints**: Constrain and standardise the content and format of outputs so downstream tasks can use them more easily.
+- **Chain-of-Thought (CoT) Prompting**: For harder tasks, guide the LLM to reason step by step.
+- **RAG (Retrieval-Augmented Generation)**: Provide external knowledge to ground responses, improving accuracy and reducing hallucinations.
 
-### Part 2 — Hands-on Practice
+### Part 2: Hands-on Practice
 
 You develop and apply your own prompts with the team's help, using either the provided
 sample data or your own data and an LLM of your choice. Two practice scenarios are
 provided:
 
-1. **Attribute extraction** — Given an input text describing an entity (e.g. a city or
-   commercial item), extract all of its attributes (e.g. a city's population, location,
-   and other features).
-2. **Aspect-based sentiment analysis** — Given a text containing comments on an entity
-   (e.g. a mobile phone or car), extract sentiment about its different aspects (e.g. the
-   colour is appealing; the size is too small; the sound quality is poor).
+1. **Attribute extraction**: Given an input text describing an entity (e.g. a city or commercial item), extract all of its attributes (e.g. a city's population, location, and other features).
+2. **Aspect-based sentiment analysis**: Given a text containing comments on an entity (e.g. a mobile phone or car), extract sentiment about its different aspects (e.g. the colour is appealing; the size is too small; the sound quality is poor).
 
 > ⚠️ **Privacy:** Avoid using any data containing personal or private information during
 > practice — privacy cannot be guaranteed when accessing LLMs through external APIs.
@@ -104,27 +83,20 @@ language used throughout.
 
 ### Prerequisites
 
-- A **Gmail account** (for accessing Colab and applying for an API key via OpenRouter),
-  plus basic skills in using Colab and Jupyter notebooks.
+- A **Gmail account** (for accessing Colab and applying for an API key via OpenRouter), plus basic skills in using Colab and Jupyter notebooks.
 - An **OpenRouter API key**, obtained in advance (see the guide below).
 
 ---
 
 ## Data Privacy and Security
 
-An open-source dataset is provided for practice. If you wish to use your own data, ensure
-it contains **no personal or private information**, as it will be uploaded to Google Cloud
-and processed via LLM APIs. To process private or sensitive data, download and run an LLM
-**locally** instead.
+An open-source dataset is provided for practice. If you wish to use your own data, ensure it contains **no personal or private information**, as it will be uploaded to Google Cloud and processed via LLM APIs. To process private or sensitive data, download and run an LLM **locally** instead.
 
 ---
 
 ## Takeaways
 
-On completion you will have knowledge and hands-on experience in designing and using a
-range of LLM prompting techniques to solve problems — such as extracting key information
-and aspect-based sentiment from input texts. These are transferable skills applicable to
-a wide range of research and practical tasks.
+On completion, you will have knowledge and hands-on experience in designing and using a range of LLM prompting techniques to solve problems, such as extracting key information and aspect-based sentiment from input texts. These are transferable skills applicable to a wide range of research and practical tasks.
 
 ---
 ---
@@ -137,18 +109,18 @@ a wide range of research and practical tasks.
 This guide briefly explains how to create an API key from OpenRouter for use in Python
 projects and LLM experiments.
 
-### Step 1 — Create an OpenRouter Account
+### Step 1: Create an OpenRouter Account
 
 1. Go to the [OpenRouter website](https://openrouter.ai).
 2. Click **Sign Up**. You can register with Google, GitHub, or Email.
 3. Tick the legal consent box and press **Continue**.
 
-### Step 2 — Open the API Keys Page
+### Step 2: Open the API Keys Page
 
 After logging in, go to the [API Keys page](https://openrouter.ai/settings/keys) and click
 **"New Key"**.
 
-### Step 3 — Configure the API Key
+### Step 3: Configure the API Key
 
 You may optionally configure:
 
@@ -158,7 +130,7 @@ You may optionally configure:
 | Credit limit | No need to fill |
 | Expiration date | No expiration |
 
-### Step 4 — Copy the API Key
+### Step 4: Copy the API Key
 
 After creation, OpenRouter displays the key **once**. It looks like:
 
