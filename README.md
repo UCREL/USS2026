@@ -48,7 +48,7 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 | 11:00 to 11:15 | **Coffee and Tea Break** |
 | 11:15 to 13:00 | **Session 1: Tutorial**<br>*NLP Pipeline for Text Classification and Sequence Labelling* |_[Dr Daisy Lal](https://www.lancaster.ac.uk/scc/about-us/people/daisy-lal)_|
 | 13:00 to 14:00 | **Lunch Break and Networking** |
-| 14:00 to 15:30 | **Session 2: Tutorial**<br>*Introduction to the USAS Semantic Tagging Framework with PyMUSAS* | _[Prof Paul Rayson](https://www.lancaster.ac.uk/scc/about-us/people/paul-rayson)<br>[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_ |
+| 14:00 to 15:30 | **Session 2: Tutorial**<br>*Introduction to the USAS Semantic Tagging Framework with PyMUSAS* <br> [More...](https://github.com/UCREL/Intro-to-USAS-USS-2026) | _[Prof Paul Rayson](https://www.lancaster.ac.uk/scc/about-us/people/paul-rayson)<br>[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_ |
 | 15:30 to 15:45 | **Coffee and Tea Break** | 
 | 15:45 to 16:30 | **Session 3: To be Confirmed**<br>Speaker or session details to follow |_[Dr John Vidler](https://www.lancaster.ac.uk/scc/about-us/people/john-vidler)_|
 | 16:30 to 17:00 | **Session 4: Hackathon Kick-off**<br>Challenge briefing, team formation, idea scoping |_[Dr Tharindu Ranasinghe](https://www.lancaster.ac.uk/scc/about-us/people/tharindu-ranasinghe)_<br>_[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_<br>_[Dr John Vidler](https://www.lancaster.ac.uk/scc/about-us/people/john-vidler)_|
