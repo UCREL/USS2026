@@ -6,7 +6,7 @@
 
 *Draft programme repository for the UCREL Summer School 2026*
 
-![Draft](https://img.shields.io/badge/status-draft-f59e0b?style=for-the-badge)
+<!-- ![Draft](https://img.shields.io/badge/status-draft-f59e0b?style=for-the-badge) -->
 ![Dates](https://img.shields.io/badge/dates-20_to_22_July_2026-1d4ed8?style=for-the-badge)
 ![Location](https://img.shields.io/badge/location-Lancaster_University-0f766e?style=for-the-badge)
 ![Theme](https://img.shields.io/badge/theme-NLP_%7C_LLMs_%7C_Responsible_and_Explainable_AI_in_Practice-7c3aed?style=for-the-badge)
@@ -17,7 +17,7 @@
 
 ## Overview
 
-This repository contains the draft programme and related materials for the **UCREL Summer School 2026**, hosted at **Lancaster University** from **20 to 22 July 2026**.
+This repository contains the programme and links to tutorials and other materials for the **UCREL Summer School 2026**, hosted at **Lancaster University** from **20 to 22 July 2026**.
 
 The 2026 theme is: **NLP, LLMs and Responsible and Explainable AI in Practice**
 
@@ -107,29 +107,10 @@ The programme is designed for:
 
 ---
 
-<!-- ## Repository contents
-
-Suggested structure:
-
-```text
-.
-├── README.md
-├── assets/
-│   ├── ucrel-summer-school-2026-programme.png
-│   └── ucrel-summer-school-2026-schedule.png
-├── programme/
-│   └── draft-programme.md
-└── social/
-    └── programme-card.png
-```
-
---- -->
-
 ## Notes
 
-- This programme is a **draft** and may be updated as speakers and session details are confirmed.
+- This is the final programme but it may be updated as speakers and session details are confirmed or changed.
 - Session titles and timings are subject to minor refinement.
-- **Session 3** on Day 1 is currently to be confirmed.
 
 ---
 
@@ -139,5 +120,5 @@ Dr Ignatius Ezeani and the **UCREL Summer School 2026 Organising Team**, Lancast
 ---
 
 <p align="center">
-  <sub>Draft programme · Subject to minor updates</sub>
+  <sub>Final Programme · Subject to minor updates</sub>
 </p>
