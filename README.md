@@ -29,12 +29,6 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 
 ## Programme at a glance
 
-> Add your banner or programme graphic to the repository and update the path below if needed.
-
-<p align="center">
-  <img src="assets/images/USS2026_programme.png" alt="UCREL Summer School 2026 draft programme" width="900">
-</p>
-
 ---
 
 ## Day 1 · Monday 20 July 2026
