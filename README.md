@@ -37,7 +37,7 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 | Time | Session | Presenter |
 |---|---|---|
 | 09:00 to 09:30 | **Registration**<br>Arrivals, Badges, Wi-Fi, and Setup | |
-| 09:30 to 10:00 | **Opening and Welcome Remarks**  <br> [Slides](assets/presentations/UCREL NLP overview.pdf) | _[Dr Ignatius Ezeani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani)<br>[Prof Paul Rayson](https://www.lancaster.ac.uk/scc/about-us/people/paul-rayson)_ |
+| 09:30 to 10:00 | **Opening and Welcome Remarks**  <br> [Slides](/assets/presentations/UCREL NLP overview.pdf) | _[Dr Ignatius Ezeani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani)<br>[Prof Paul Rayson](https://www.lancaster.ac.uk/scc/about-us/people/paul-rayson)_ |
 | 10:00 to 11:00 | **Keynote**<br>*Frustratingly Simple and Efficient Multilingual Language Model Adaptation* <br> [More...](/assets/markdowns/NAletras.md) | _[Prof Nikos Aletras](https://sheffield.ac.uk/cs/people/academic/nikos-aletras)_<br>_Professor of NLP_<br>_Sheffield University_|
 | 11:00 to 11:15 | **Coffee and Tea Break** |
 | 11:15 to 13:00 | **Session 1: Tutorial**<br>*NLP Pipeline for Text Classification and Sequence Labelling* |_[Dr Daisy Lal](https://www.lancaster.ac.uk/scc/about-us/people/daisy-lal)_|
