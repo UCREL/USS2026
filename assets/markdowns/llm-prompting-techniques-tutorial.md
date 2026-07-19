@@ -39,7 +39,7 @@ In this tutorial, you will discuss a range of LLM prompting techniques and gain 
 
 ## Structure of the Tutorial
 
-The tutorial has **two main parts**.
+The Dataset and the Google Colab notebooks for this tutorial are available [here](/assets/notebooks/Prompt%20Engineering/) The tutorial has **two main parts**.
 
 ### Part 1: Techniques (≈ 40–45 minutes)
 
