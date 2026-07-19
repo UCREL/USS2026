@@ -4,7 +4,7 @@
 
 **Lancaster University · 20 to 22 July 2026**
 
- *Draft programme repository for the UCREL Summer School 2026* -->
+<!-- *Draft programme repository for the UCREL Summer School 2026* -->
 
 <!-- ![Draft](https://img.shields.io/badge/status-draft-f59e0b?style=for-the-badge) -->
 ![Dates](https://img.shields.io/badge/dates-20_to_22_July_2026-1d4ed8?style=for-the-badge)
