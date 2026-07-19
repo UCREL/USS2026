@@ -25,10 +25,3 @@ The model assigns one of **24 predefined labels** to relevant text spans, enabli
 - investigations
 
 The extracted entities can subsequently be linked to biomedical terminologies such as **SNOMED CT**, including through clinical concept annotation tools such as **MedCAT**.
-
-## Session Resources
-
-Participants can access both notebooks directly in Google Colab:
-
-- [Text Classification Notebook](https://colab.research.google.com/drive/1orHPPUeQvAfkBQgvDeDe6iHGYPqtOWQr?usp=sharing)
-- [Sequence Labelling Notebook](https://colab.research.google.com/drive/16IwfXaKsr5m4TFIvSvrNbw7KBlXzOvlb?usp=sharing)
