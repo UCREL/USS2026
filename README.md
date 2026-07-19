@@ -37,14 +37,14 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 | Time | Session | Presenter |
 |---|---|---|
 | 09:00 to 09:30 | **Registration**<br>Arrivals, Badges, Wi-Fi, and Setup | |
-| 09:30 to 10:00 | **Opening and Welcome Remarks** <br> | _[Dr Ignatius Ezeani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani)<br>[Prof Paul Rayson](https://www.lancaster.ac.uk/scc/about-us/people/paul-rayson)_ |
+| 09:30 to 10:00 | **Welcome Remarks & UCREL Overview** <br> [Slides](/assets/presentations/UCREL%20NLP%20overview.pdf) | _[Dr Ignatius Ezeani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani)<br>[Prof Paul Rayson](https://www.lancaster.ac.uk/scc/about-us/people/paul-rayson)_ |
 | 10:00 to 11:00 | **Keynote**<br>*Frustratingly Simple and Efficient Multilingual Language Model Adaptation* <br> [More...](/assets/markdowns/NAletras.md) | _[Prof Nikos Aletras](https://sheffield.ac.uk/cs/people/academic/nikos-aletras)_<br>_Professor of NLP_<br>_Sheffield University_|
 | 11:00 to 11:15 | **Coffee and Tea Break** |
 | 11:15 to 13:00 | **Session 1: Tutorial**<br>*NLP Pipeline for Text Classification and Sequence Labelling* <br> [More...](/assets/markdowns/daisy-lal-practical-lab.md) |_[Dr Daisy Lal](https://www.lancaster.ac.uk/scc/about-us/people/daisy-lal)_|
 | 13:00 to 14:00 | **Lunch Break and Networking** |
 | 14:00 to 15:30 | **Session 2: Tutorial**<br>*Introduction to the USAS Semantic Tagging Framework with PyMUSAS* <br> [More...](https://github.com/UCREL/Intro-to-USAS-USS-2026) | _[Prof Paul Rayson](https://www.lancaster.ac.uk/scc/about-us/people/paul-rayson)<br>[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_ |
 | 15:30 to 16:00 | **Coffee and Tea Break** | 
-| 16:00 to 17:00 | **Session 3: Hackathon Kick-off**<br>Challenge briefing, team formation, idea scoping |_[Dr Tharindu Ranasinghe](https://www.lancaster.ac.uk/scc/about-us/people/tharindu-ranasinghe)_<br>_[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_<br>_[Damith Dola Mullage](https://www.lancaster.ac.uk/scc/about-us/people/damith-dola-mullage)_<br>_[Dr John Vidler](https://www.lancaster.ac.uk/scc/about-us/people/john-vidler)_|
+| 16:00 to 17:00 | **Session 3: Hackathon Kick-off**<br>Challenge briefing, team formation, idea scoping  <br> [More...](/assets/markdowns/hackathon-multilingual-ner.md) |_[Dr Tharindu Ranasinghe](https://www.lancaster.ac.uk/scc/about-us/people/tharindu-ranasinghe)_<br>_[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_<br>_[Damith Dola Mullage](https://www.lancaster.ac.uk/scc/about-us/people/damith-dola-mullage)_<br>_[Dr John Vidler](https://www.lancaster.ac.uk/scc/about-us/people/john-vidler)_|
 
 ---
 
