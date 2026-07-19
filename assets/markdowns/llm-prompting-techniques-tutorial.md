@@ -71,15 +71,16 @@ provided:
 
 ## Software, Sample Data, and Computing Environment
 
-Participants should have good knowledge and some experience of **Python**, which is the
-language used throughout.
+Participants should have good knowledge and some experience of **Python**, which is the language used throughout.
 
 - **Software:** A sample Python script is provided, which participants can modify or
   adapt for their own tasks in the hands-on session.
-- **Environment:** The script is set up to run in **Google Colab** (<https://colab.google>)
-  via Jupyter notebooks. Programs and the sample dataset can be downloaded to run locally.
+
+- **Environment:** The script is set up to run in **Google Colab** (<https://colab.google>) via [Jupyter notebooks](/assets/notebooks/Prompt%20Engineering/). Programs and the sample dataset can be downloaded to run locally.
+
 - **Sample Dataset:** The [Yelp Restaurant Review Dataset](https://www.kaggle.com/datasets/farukalam/yelp-restaurant-reviews),
   an open-source set of Yelp restaurant reviews.
+
 
 ### Prerequisites
 
