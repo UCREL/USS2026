@@ -4,9 +4,9 @@
 
 **Lancaster University · 20 to 22 July 2026**
 
-<!-- *Draft programme repository for the UCREL Summer School 2026* -->
+ *Draft programme repository for the UCREL Summer School 2026* -->
 
-![Draft](https://img.shields.io/badge/status-draft-f59e0b?style=for-the-badge) -->
+<!-- ![Draft](https://img.shields.io/badge/status-draft-f59e0b?style=for-the-badge) -->
 ![Dates](https://img.shields.io/badge/dates-20_to_22_July_2026-1d4ed8?style=for-the-badge)
 ![Location](https://img.shields.io/badge/location-Lancaster_University-0f766e?style=for-the-badge)
 ![Theme](https://img.shields.io/badge/theme-NLP_%7C_LLMs_%7C_Responsible_and_Explainable_AI_in_Practice-7c3aed?style=for-the-badge)
