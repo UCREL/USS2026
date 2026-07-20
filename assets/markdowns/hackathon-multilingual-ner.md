@@ -49,3 +49,7 @@ The CodaBench page covers the following:
 - Training, development, and test data release for all languages.
 - Scoring submissions using the F1 score.
 - Leadboard showing the performance of current submissions.
+
+## Starter code
+
+Starter code can be found at the following repository: [https://github.com/UCREL/USS-Hackathon-Starter-Code](https://github.com/UCREL/USS-Hackathon-Starter-Code)
