@@ -14,8 +14,8 @@ Any reasonable modelling approach may be used, including:
 
 - supervised model training;
 - fine-tuning an existing multilingual model;
+- Training with or without synthetic-data augmentation;
 - few-shot or zero-shot prompting with a large language model;
-- synthetic-data augmentation; or
 - a combination of these approaches.
 
 ## Languages and datasets
@@ -25,16 +25,16 @@ Any reasonable modelling approach may be used, including:
 | Disclosed | English | [UNER English-EWT](https://github.com/UniversalNER/UNER_English-EWT) | Train, development and test splits |
 | Disclosed | Danish | [UNER Danish-DDT](https://github.com/UniversalNER/UNER_Danish-DDT) | Train, development and test splits |
 | Disclosed | Simplified Chinese | [UNER Chinese-GSDSIMP](https://github.com/UniversalNER/UNER_Chinese-GSDSIMP) | Train, development and test splits |
-| Surprise | Japanese | [UNER Japanese-PUD](https://github.com/UniversalNER/UNER_Japanese-PUD) | Test data only |
+| Surprise | Surprise | Surprise | Test data only |
 
-The English, Danish and Simplified Chinese datasets may be used for model development and evaluation. Japanese is the **surprise language** and is intended to assess cross-lingual generalisation.
+The English, Danish and Simplified Chinese datasets may be used for model development and evaluation. The **surprise** language tests your model to generlize to an unseen language.
 
 ## Evaluation categories
 
 Three awards are proposed:
 
 1. **Best overall performance** across the three disclosed languages.
-2. **Best performance on the surprise language**, Japanese.
+2. **Best performance on the surprise language**.
 3. **Most innovative solution**, recognising originality rather than predictive performance alone.
 
 The innovation award may consider approaches such as:
@@ -49,15 +49,14 @@ The innovation award may consider approaches such as:
 
 - Participants are free to choose their modelling strategy.
 - A highly innovative submission does not need to achieve the highest score.
-- The Japanese dataset contains test data only and should not be treated as a standard supervised training set.
+- The surprise dataset contains test data only.
 
-## Details still to be confirmed
+## CodaBench - Competition Link
 
-The following should be announced before the hackathon begins:
+We are using CodaBench to host and run this hackathon, of which the link to our CodaBench page that we are running this hackathon from is here: [https://www.codabench.org/competitions/17588/?secret_key=de718acd-a2df-4dc6-b486-65a9f227d698](https://www.codabench.org/competitions/17588/?secret_key=de718acd-a2df-4dc6-b486-65a9f227d698)
 
-- the official evaluation metric;
-- the required prediction format;
-- submission instructions and deadline;
-- whether external training data are permitted;
-- whether use of proprietary APIs is allowed; and
-- how ties will be resolved.
+The CodaBench page covers the following:
+
+- Training, development, and test data release.
+- Scoring submissions using the F1 score.
+- Leadboard showing the performance of current submissions.
