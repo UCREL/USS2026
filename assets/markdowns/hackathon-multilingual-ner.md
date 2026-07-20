@@ -18,17 +18,6 @@ Any reasonable modelling approach may be used, including:
 - few-shot or zero-shot prompting with a large language model;
 - a combination of these approaches.
 
-## Languages and datasets
-
-| Role | Language | Dataset | Data availability |
-|---|---|---|---|
-| Disclosed | English | [UNER English-EWT](https://github.com/UniversalNER/UNER_English-EWT) | Train, development and test splits |
-| Disclosed | Danish | [UNER Danish-DDT](https://github.com/UniversalNER/UNER_Danish-DDT) | Train, development and test splits |
-| Disclosed | Simplified Chinese | [UNER Chinese-GSDSIMP](https://github.com/UniversalNER/UNER_Chinese-GSDSIMP) | Train, development and test splits |
-| Surprise | Surprise | Surprise | Test data only |
-
-The English, Danish and Simplified Chinese datasets may be used for model development and evaluation. The **surprise** language tests your model to generlize to an unseen language.
-
 ## Evaluation categories
 
 Three awards are proposed:
@@ -57,6 +46,6 @@ We are using CodaBench to host and run this hackathon, of which the link to our 
 
 The CodaBench page covers the following:
 
-- Training, development, and test data release.
+- Training, development, and test data release for all languages.
 - Scoring submissions using the F1 score.
 - Leadboard showing the performance of current submissions.
