@@ -53,3 +53,7 @@ The CodaBench page covers the following:
 ## Starter code
 
 Starter code can be found at the following repository: [https://github.com/UCREL/USS-Hackathon-Starter-Code](https://github.com/UCREL/USS-Hackathon-Starter-Code)
+
+## Presentation slides
+
+The presentation slides can be found at [https://github.com/UCREL/USS2026/blob/main/assets/presentations/USS%20Hackathon%202026.pdf](https://github.com/UCREL/USS2026/blob/main/assets/presentations/USS%20Hackathon%202026.pdf)
