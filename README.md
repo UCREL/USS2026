@@ -58,7 +58,7 @@ For the current public UCREL summer school page, see the [UCREL NLP Summer Schoo
 | 10:30 to 11:00 | **Coffee and Tea Break** | |
 | 11:00 to 13:00 | **Session 4: Tutorial**<br>*LLM Prompting Techniques: RTCF, Few-shot, CoT, RAG and Constraints* <br> [More...](/assets/markdowns/llm-prompting-techniques-tutorial.md)| _Chenji Jin, Pourya Farzi_<br>_[Dr Scott Piao](https://www.lancaster.ac.uk/sci-tech/about-us/people/scott-piao)_|
 | 13:00 to 14:00 | **Lunch Break and Networking** |
-| 14:00 to 15:30 | **Session 5: Tutorial**<br>*Building a Basic RAG System: indexing a corpus, retrieval, prompting, and evaluating responses* | _[Dr Hansi Hettiarachchi](https://www.lancaster.ac.uk/sci-tech/about-us/people/hansi-hettiarachchi)_ |
+| 14:00 to 15:30 | **Session 5: Tutorial**<br>*Building a Basic RAG System: indexing a corpus, retrieval, prompting, and evaluating responses* <br> [More...](/assets/markdowns/session-6-rag-description.md) | _[Dr Hansi Hettiarachchi](https://www.lancaster.ac.uk/sci-tech/about-us/people/hansi-hettiarachchi)_ |
 | 15:30 to 16:00 | **Coffee and Tea Break** | |
 | 16:00 to 17:00 | **Session 6: Hackathon Sprint**<br>Code and spec review, short clinic, discussions and support |_[Dr Tharindu Ranasinghe](https://www.lancaster.ac.uk/scc/about-us/people/tharindu-ranasinghe)_<br>_[Dr Andrew Moore](https://www.lancaster.ac.uk/scc/about-us/people/andrew-moore)_<br>_[Dr Damith Dola Mullage](https://www.lancaster.ac.uk/scc/about-us/people/damith-dola-mullage)_<br>_[Dr John Vidler](https://www.lancaster.ac.uk/scc/about-us/people/john-vidler)_|
 

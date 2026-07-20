@@ -14,6 +14,8 @@ School of Computer Science, University of Sheffield
 
 ### Frustratingly Simple and Efficient Multilingual Language Model Adaptation
 
+[Slides](/assets/presentations/nikos-aletras_2026-Lancaster-keynote.pdf)
+
 > Most Large Language Models are heavily English-centric, resulting in higher inference costs and poorer performance for non-English speakers. How do we adapt these models to new languages efficiently without breaking what already works? In this talk, I will present two simple yet powerful approaches to bridge the multilingual gap. First, I will present ElChat (Eliciting Chat Abilities), a method that adapts instruction-tuned LLMs to a target language using only unlabeled data. The method completely bypasses the need for costly translated chat datasets while boosting inference speed and safety. Second, I will talk about SSU (Source Shielded Updates), a technique to fight catastrophic forgetting. By identifying and freezing crucial source-language parameters before fine-tuning, SSU preserves the model's original capabilities while it learns a new language.
 
 ---
