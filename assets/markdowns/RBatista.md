@@ -12,6 +12,8 @@ Department of Computer Science, University of Manchester
 
 ## 🎤 Talk
 
+[Slides](/assets/presentations/RBatista_How%20to%20train%20your%20model.pdf)
+
 ### **How to train your model:** Paradigms for training LLMs and how to know which one to use
 
 > In the current landscape where large language models (LLMs) have become readily accessible tools, understanding how they are trained — and on what kind of data — is key in ensuring that researchers and practitioners are developing or using them in a manner that is fit for purpose. This talk will outline the various paradigms for training LLMs including model pre-training, fine-tuning, instruction tuning and reinforcement learning from human feedback (RLHF), as well as emerging ones such as model merging and nested learning. Furthermore, it will discuss other techniques, such as in-context learning (also known as prompting) and retrieval augmented generation (RAG), that could allow for getting the most out of LLMs even without model training. Importantly, illustrative examples that highlight the emerging applications — and limitations — of each of these approaches will be provided.

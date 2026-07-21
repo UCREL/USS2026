@@ -26,7 +26,7 @@
 ---
 
 ## Introduction
-
+[Slides](/assets/presentations/SummerSchool_Version20July.pdf)
 With the emergence of ChatGPT in November 2022, generative AI has advanced at an unprecedented pace, and a series of Large Language Models (LLMs) have been developed and increasingly deployed across a growing range of real-world applications. The knowledge embedded within today's LLMs opens up extensive possibilities for solving a wide variety of problems.
 
 While there are many ways to access LLMs and retrieve the knowledge stored within them, **prompting** remains the principal means for most users to access and use LLMs quickly and conveniently. These approaches range from simple question answering to more advanced techniques such as Chain-of-Thought (CoT) prompting and Retrieval-Augmented Generation (RAG).
